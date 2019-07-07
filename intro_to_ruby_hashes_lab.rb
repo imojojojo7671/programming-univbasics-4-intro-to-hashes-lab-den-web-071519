@@ -26,7 +26,7 @@ def read_from_hash(hash, key)
   hash[key]
 end
 
-def update_counting_hash(hash, key)
+def update_counting_hash(hash, key) # increments a value or creates it
   if hash[key]
     hash[key] += 1
   else hash[key] = 1
