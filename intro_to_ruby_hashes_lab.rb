@@ -3,7 +3,8 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  display_hash = {validkey: "Value Entry", validkey2: "Other Value"}
+  display_hash 
 end
 
 def pioneer
