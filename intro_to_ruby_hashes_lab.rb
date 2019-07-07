@@ -13,7 +13,7 @@ def pioneer
 end
 
 def id_generator
-  id_hash = {id: 1}
+  id_hash = {id: 124}
   id_hash
 end
 
