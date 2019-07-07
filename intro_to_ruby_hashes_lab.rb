@@ -4,7 +4,7 @@ end
 
 def my_hash
   display_hash = {validkey: "Value Entry", validkey2: "Other Value"}
-  display_hash 
+  display_hash
 end
 
 def pioneer
